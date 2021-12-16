@@ -1,4 +1,4 @@
-# HS뚜꺼비체(HSDuggobi)
+# HS두꺼비체(HSDuggobi)
 
 <a href="https://wess.tistory.com" target="_blank">
     <img src="https://webfontworld.github.io/HSDuggobi/HSDuggobi.jpg" alt="HSDuggobi" style="width:300px">
